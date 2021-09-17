@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="push_notifications">Push notifications</string>
+    <string name="the_key_word">The key word</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="time">Time</string>
+    <string name="image">Image</string>
+    <string name="BackCamera">Back Camera</string>
+    <string name="FrontCamera">Front Camera</string>
+    <string name="OpenCamera">Open Camera</string>
+    <string name="LastPhoto">Open last photo</string>
+    <string name="lastPhoto">lastPhoto</string>
+</resources>
